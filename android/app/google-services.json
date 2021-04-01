@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "51953048514",
+    "project_id": "vit-events",
+    "storage_bucket": "vit-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51953048514:android:b55662d75d077661d3545b",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51953048514-9i5n97a4j6t3qr36aevtg9cs4ki7jkef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEVSEnKxsxLoLCiXNMppBqnwA8XIkMWEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51953048514-9i5n97a4j6t3qr36aevtg9cs4ki7jkef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51953048514:android:843aac7981dc3555d3545b",
+        "android_client_info": {
+          "package_name": "com.example.students"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51953048514-9i5n97a4j6t3qr36aevtg9cs4ki7jkef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEVSEnKxsxLoLCiXNMppBqnwA8XIkMWEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51953048514-9i5n97a4j6t3qr36aevtg9cs4ki7jkef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

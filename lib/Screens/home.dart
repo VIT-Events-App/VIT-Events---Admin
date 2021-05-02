@@ -47,7 +47,7 @@ class _HomeState extends State<Home> {
                           color: Colors.white24,
                           child: Container(
                             margin: EdgeInsets.all(20),
-                            height: 200,
+                            height: 220,
                             //color: Colors.grey[400],
                             child: Column(
                               children: [
